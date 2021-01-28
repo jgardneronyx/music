@@ -1,27 +1,2 @@
 ****** Read Me ******
 
-So in this file will be three files
-1. Musicapp.py
-2. outfile.txt
-3. scale_modules.py
-
-You will need all three files to run the program.
-
-Step 1: Save files into same location on your computer. For simplicity reasons , I reccomend saving them all to your desktop. Another easy thing to do would be save them to a folder and put that folder on your desktop. If you 
-do this , you'll need to know the name of the folder. 
-
-Step 2: Make sure you have the latest version of python. So that means python 3 or higher. The way you check 
-this is by opening up your terminal tool and typing in 'python3'. If you have python 3 you will see a liscening tag that says python3. If you dont have it follow this link https://www.python.org/downloads/ to download it. 
-
-Step 3: Once you have python3 , and youve saved the above files into the same location you can run the program.
-
-Step 4: Running the program. Open up the terminal tool. Type in 'terminal' to the spotlight tool and its the black box looking thing with a cursor in the top left. Press enter. Once you are in the terminal, youll need to access the directory your files are in . To change directories , all you do is type cd directory_name. For exanpmle if you wanna move from the home directory which is where you'll start, to the desktop you'll type in cd deskop. Now you'll be working out of the desktop directory. One other important note, the way you move from directory to directory is linear. So if you were to move from the home directory to the desktop to a file on that desktop youd do the following. Type cd desktop, press enter. Then type cd filename , press enter. So if you did save the above files into a folder on your desktop , that is what you'd do. S
-
-So once you are in the correct directory , its simple. Type python3 Musicapp.py then press enter. Now you can use/intreact with the program :}
-
-This is kinda what the process will look like. This is on my macbook obviously. 
-
-Last login: Sun Mar 15 19:58:59 on ttys000
-jamesgardner@Jamess-MacBook-Pro ~ % cd desktop 
-jamesgardner@Jamess-MacBook-Pro desktop % cd programs
-jamesgardner@Jamess-MacBook-Pro programs % python3 Musicapp.py
