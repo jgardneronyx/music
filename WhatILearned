@@ -1,1 +1,15 @@
+IVE ALWAYS BEEN INTERESTED IN MUSIC THEORY. 
+SO I WROTE A PROGRAM ABOUT MUSICAL SCALES AND CHORDS TO TRY AND IMPROVE MY SKILLS IN PYTHON 
 
+< THREE THINGS I LEARNED >
+
+1. How to write my own modules. More specfically how to use the dot operator
+   to impliment my modules in the larger program. Instead of wrting all my 
+   functions outside 'Main()', writing them to a seperate file helped me save 
+   space and make my code more succinct. 
+
+2. Properly Indexing dictionaries with key/value pairs that are objects as well
+   Using a tuple as my KEY and a LIST as my value. Being careful to index them 
+   properly in order to have access to them .
+   
+  
